@@ -8,10 +8,7 @@ const FixedComponent = () => {
         <h2 className="heading">
           Grow your startup like crazy without giving up a penny of equity.
         </h2>
-        <a
-          className="cta-button"
-          href="https://next.startups.com/accelerator/register"
-        >
+        <a className="cta-button" href="#">
           Let's do this
           <span className="button-icon">
             <svg
