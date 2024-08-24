@@ -60,7 +60,6 @@
 .cta-button:hover {
   background-color: rgba(162, 53, 25, 1);
   transform: scale(1.05);
-  opacity: 0.8;
 }
 
 .cta-button:active {
